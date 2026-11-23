@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=OK+THE+MUSCOGEE+CREEK+NATION",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=OK+THE+MUSCOGEE+CREEK+NATION",
+  "title": "Federal Register - OK THE MUSCOGEE CREEK NATION",
+  "fetched_at": "2026-11-23T17:38:37.313268Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 272525,
+  "sha256": "9e4adcff14a3fcfc175c7fe0c3847e2d577555cb36e25826303ba49e259acf2c",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
